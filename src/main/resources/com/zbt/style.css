@@ -1,0 +1,9 @@
+.border {
+    -fx-border-width: 1px;
+     -fx-border-color: #bbb;
+}
+.chart
+{
+
+    -fx-create-symbols: true;
+}
